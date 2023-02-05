@@ -1,5 +1,5 @@
 # s.bus lights
-STM32F103C6, STM32F103C6, STM32F103CB
+STM32F103C6, STM32F103C8, STM32F103CB
 
 Based on s.bus channel lights up to 8 independent lights. Each light can lit or blink with pattern based on channel value
 - off
