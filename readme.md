@@ -12,4 +12,4 @@ Now up to 8 independent lights.
 Continue blinking on Failsafe mode. Reset whole device after 5s of no signal from Rx, trying to restore serial communication.
 Configurable for ch1-8 or ch9-16 by jumper.
 
-It is easy to modify for for example car blinker based on steer channe, reverse light based on throttle channel, etc only by modifying config_set.cpp, where are set light patterns based on channel value.
+It is easy to modify program for example for car blinker based on steer channel, reverse light based on throttle channel, etc - only by modifying config_set.cpp, where are set light patterns based on channel value.
